@@ -1,4 +1,5 @@
 const colors = ['lightred', 'lightgreen', 'lightblue', 'yellow', 'pink', 'purple']
+button.addEventListener('click', changeBackground)
 
 function changeText() {
     let text
